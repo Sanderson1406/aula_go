@@ -12,5 +12,5 @@ func main() {
 	fmt.Scan(&id)
 	fmt.Print("Qual seu peso? ")
 	fmt.Scan(&peso)
-	fmt.Println("Olá", name, "co")
+	fmt.Println("Olá", name, ", você tem", id, "anos e pesa", peso, "...")
 }
