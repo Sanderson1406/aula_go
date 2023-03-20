@@ -15,6 +15,6 @@ func main() {
 	fmt.Scan(&altura)
 	fmt.Print("Qual a profundidade da caixa?")
 	fmt.Scan(&profun)
-	fmt.Println("O colume da caixa é", base*altura*profun)
+	fmt.Println("O volume da caixa é", base*altura*profun)
 
 }
